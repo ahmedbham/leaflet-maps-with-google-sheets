@@ -1,10 +1,10 @@
 var constants = {
   // Tabs in Google Sheet
   notesSheetName: 'Notes',
-	optionsSheetName: 'Options',
-	pointsSheetName: 'Points',
-  polygonsSheetName: 'Polygons',
-  polylinesSheetName: 'Polylines',
+	optionsSheetName: 'options',
+	pointsSheetName: 'points',
+  polygonsSheetName: 'polygons',
+  polylinesSheetName: 'polylines',
   /* OPTIONS */
 	// Map Info
   _mapTitle: 'Map Title',
